@@ -31,4 +31,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I'm Jiasheng, a software engineer based in Boston with an M.S. in Computer Science from Boston University. I specialize in building full-stack applications with Java/Spring Boot and Next.js, with a focus on clean architecture, scalable backends, and production-ready deployments. Most recently, I led development on a SaaS platform for an external client, integrating Stripe billing and migrating media infrastructure to AWS S3. I enjoy tackling hard problems — from distributed systems and blockchain smart contracts to accessibility tools that earned a VMware Award at my first hackathon.
+I'm Jiasheng Qiu (仇嘉盛， Jason) [linkedIn](https://www.linkedin.com/in/jiasheng-qiu-a050591ba/), a software engineer based in Boston with M.S. and B.A. degree in Computer Science from Boston University.
+
+
+I specialize in building full-stack applications with Java/Spring Boot and Next.js, with a focus on clean architecture, scalable backends, and production-ready deployments. 
+
+Most recently, I led development on a SaaS platform for an external client, integrating Stripe billing and migrating media infrastructure to AWS S3. [Be The Messenger](https://github.com/BU-Spark/se-bcs-social-justice-app)
+
+
+I enjoy tackling hard problems — from distributed systems and blockchain smart contracts to accessibility tools that earned a VMware Award at my first hackathon.
