@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Address. Contacts.
 
 profile:
   align: right
@@ -11,17 +11,17 @@ profile:
   more_info: >
     <p>Boston, MA, USA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  enabled: false # includes a list of news items
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
@@ -33,10 +33,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I'm Jiasheng Qiu (仇嘉盛， Jason) [linkedIn](https://www.linkedin.com/in/jiasheng-qiu-a050591ba/), a software engineer based in Boston with M.S. and B.A. degree in Computer Science from Boston University.
 
-
-I specialize in building full-stack applications with Java/Spring Boot and Next.js, with a focus on clean architecture, scalable backends, and production-ready deployments. 
+I specialize in building full-stack applications with Java/Spring Boot and Next.js, with a focus on clean architecture, scalable backends, and production-ready deployments.
 
 Most recently, I led development on a SaaS platform for an external client, integrating Stripe billing and migrating media infrastructure to AWS S3. [Be The Messenger](https://github.com/BU-Spark/se-bcs-social-justice-app)
-
 
 I enjoy tackling hard problems — from distributed systems and blockchain smart contracts to accessibility tools that earned a VMware Award at my first hackathon.
